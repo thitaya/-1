@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#c{
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+    background: #99CCFF;
+    overflow: hidden;
+}
+header{
+    text-align: center;
+    width: 1000px;
+    height: 50px;
+    background: #3366CC;
+    margin: 0 auto;
+}
+#b{
+    text-align: center;
+    width: 1000px;
+    height: 100Px;
+    background: AliceBlue;
+    margin: 0 auto;
+    background-image: url(/Users/thitaya/Desktop/col/m.jpg );
+}
+section{
+    margin-top: 20px;
+    margin-left: 41px;
+    text-align: center;
+    width: 490px;
+    height: 700px;
+    background: #CCFFFF;
+    float: left;
+    
+}
+aside{
+    margin-top: 20px;
+    margin-left: 25px;
+    width: 400px;
+    height: 700px;
+    background:#CCFFFF;
+    float: left;
+
+}
+footer{
+    margin-top: 740px;
+    width: 1000px;
+    height: 150px;
+    
+    background: #336699;
+}
